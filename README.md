@@ -4,6 +4,10 @@
 ---
 This project enhances blood bank operations through a sophisticated SQL-driven management system, focusing on efficient data handling and strategic resource allocation to improve donor and recipient experiences.
 
+📚 Resources
+---
+The project is supported by detailed documentation and SQL code. The PDF document outlines methodologies, objectives, and insights, while the SQL code demonstrates system functionalities for operational efficiency.
+
 📈 Quick Facts
 ---
 - **System Focus**: Streamlining blood donation and distribution processes.
