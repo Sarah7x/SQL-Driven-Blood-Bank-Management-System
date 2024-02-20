@@ -1,4 +1,4 @@
-# 🩸 SQL-Driven-Blood-Bank-Management-System
+# 🩸 SQL-Driven Blood Bank Management System
 
 🌐  Project Overview
 ---
